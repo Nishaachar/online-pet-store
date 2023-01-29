@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Noto Sans', sans-serif;
+font-family: 'Open Sans', sans-serif;
+}
+
+/*Navbar section*/
+#site-title{
+    font-family: 'Cormorant Garamond', serif;
+font-family: 'IBM Plex Sans', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Pacifico', cursive;
+font-size: 50px;
+color: white;
+}
+
+#site-title:hover{
+    color: gold;
+}
+
+.container-fluid a{
+    color: white;
+    font-size: 20px;
+}
+.container-fluid a:hover{
+    color: gold;
+}
+
+/*Introduction section*/
+.intro-img{
+    height: 100vh;
+    width: 100vw;
+}
+.introduction{
+    background-color: black;
+}
+
+
+/*Features section*/
+
+
+.features-cont{
+    min-height: 80vh;
+}
+
+/*Credentials section*/
+.d-block{
+    height: 90vh;
+}
+
+/*Ads column*/
+.advt-img{
+    height: 5vh;
+    width: 20vw;
+}
+.ads-cont{
+    background-color: black;
+    min-height: 10vh;
+}
+
+/*Pricing column */
+.pricing{
+    min-height: 100vh;
+    padding: 7rem 0;
+    background-color: #1A120B;
+}
+.pricing-heading{
+    color: white;
+    margin-bottom: 50px;
+}
+.card-header{
+    font-size: 30px;
+    background-color: #3C2A21;
+    color: white;
+}
+
+
+/*Download Section*/
+.download-btns{
+    min-height: 60vh;
+    background-color: violet;
+    padding: 5rem;
+}
+
+.down-btn{
+    margin: 15px;
+}
+
+/*Footer section*/
+
+.footer-style{
+    padding: 4rem;
+    background-color: #C69749;
+}
+
+.foot-icons{
+    padding-right: 1rem;
+}
+
+
+
+
+
